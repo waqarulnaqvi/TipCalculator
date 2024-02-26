@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculate_tip">टिप की गणना करें</string>
+    <string name="bill_amount">बिल राशि</string>
+    <string name="tip_amount">टिप राशि</string>
+</resources>
